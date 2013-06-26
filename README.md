@@ -51,6 +51,11 @@ So for example,
 
 will match any test file and run it whenever it is saved.
 
+## Todos
+* add default check for `~/.gazrrc` or `.gazrrc`
+* add the ablility to have more then one file
+    * have a global file that could apply to all project and a local for a specific project (Remains Flexible)
+
 ## Contributing
 
 1. Fork it
