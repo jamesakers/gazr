@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Gazr::VERSION
   spec.authors       = ["James Akers"]
   spec.email         = ["j.f.akers@gmail.com"]
-  spec.description   = %q{Replacement for watchr}
-  spec.summary       = %q{Replacement for watchr}
-  spec.homepage      = ""
+  spec.description   = %q{Flexible, Simple alternative to Guard. Watchr for Ruby 1.9.3 and beyond.}
+  spec.summary       = %q{Flexible, Simple alternative to Guard. Watchr for Ruby 1.9.3 and beyond.}
+  spec.homepage      = "http://github.com/jamesakers/gazr"
   spec.license       = "MIT"
 
   spec.require_paths = ["lib"]
