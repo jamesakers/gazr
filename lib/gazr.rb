@@ -64,5 +64,4 @@ module Gazr
         end
     end
   end
-  
 end

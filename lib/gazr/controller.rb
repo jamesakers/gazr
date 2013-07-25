@@ -33,5 +33,3 @@ module Gazr
     end
   end
 end
-
-
